@@ -1,11 +1,11 @@
 terraform {
 /*
-  cloud {
-   organization = "organization-name"
+   cloud {
+    organization = "my-terra-dev"
 
-   workspaces {
-     name = "learn-terraform-cloud"
-   }
+    workspaces {
+      name = "terraform-demo"
+    }
   }
 */
 
